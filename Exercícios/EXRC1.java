@@ -2,13 +2,13 @@ import java.util.*;
 
 class EXRC1{
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         try{    
             int tmnS,tmnQ;
 
             Scanner scan = new Scanner(System.in);
 
-            tmnS = sc.nextInt();
+            tmnS = scan.nextInt();
 
             int[] S = new int[tmnS];
 
