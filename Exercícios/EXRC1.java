@@ -1,8 +1,9 @@
-import java.util.*;
+import java.util.Scanner;
 
-class EXRC1{
+class Exrc1 {
 
-    public static void main(String[] args){
+   
+    public static void main(String[] args) {
         try{    
             int tmnS,tmnQ;
 
